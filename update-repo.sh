@@ -26,6 +26,5 @@ update-yay
 
 cd ~/Git/arch-repo/
 sudo rm -r temp/
-
 git-push
 
