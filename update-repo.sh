@@ -23,7 +23,8 @@ git-push() {
 }
 
 update-yay
-git-push
 
-cd ../..
+cd ~/Git/arch-repo/
 sudo rm -r temp/
+
+git-push
