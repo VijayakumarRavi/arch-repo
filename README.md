@@ -2,7 +2,7 @@
   ## How to "install" arch-repo
   Adding a third-party repository (like this one) is easy.  Just add the following lines to the end of /etc/pacman.conf :
   ```
-  [dt-arch-repo]
+  [arch-repo]
   SigLevel = Optional DatabaseOptional
   Server = https://gitlab.com/dwt1/$repo/-/raw/master/$arch
   ```
