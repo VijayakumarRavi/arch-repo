@@ -4,7 +4,7 @@
   ```
   [arch-repo]
   SigLevel = Optional DatabaseOptional
-  Server = https://gitlab.com/dwt1/$repo/-/raw/master/$arch
+  Server = https://raw.githubusercontent.com/VijayakumarRavi/$repo/main/$arch
   ```
 
 Then, sync the repositories and update your system with:
